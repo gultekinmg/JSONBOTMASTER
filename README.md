@@ -29,6 +29,8 @@ To reduce source outcome there exist also another short coding by chessforeva fo
 
 2- For Web Clients; Browser Extentions injects Move to Web Interface.
 
+3- For android OS; overscreen write.
+
 ---------------------------------------------------------------------
 # Branch PGN Base Links; - soon
 POP directory for Link sharing
