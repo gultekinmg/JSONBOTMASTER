@@ -2,7 +2,7 @@
 Fasted PGN Based Untracible Chess Engine Alernative
 --------------------------------------------------
 That Chess Engine Alernative is unTracible by any moderator because of it is based on scripts only and All games played beforehand.
-It is FASTEST CHESS ENGINE ever build as Tested finishing all games at less then "ONE SECOND", if it playes against itself.
+It is # FASTEST CHESS ENGINE ever build as Tested finishing all games at less then # "ONE SECOND", if it playes against itself.
 It playes all chess variants PGN BASEs available. Therefore it plays best when you have a HUGE PGN BASE DATA.
 So when no move available you need to extend your database.
 Algorithm lays on query and filter moves Shortest WIN for selected side on JSON Database.
