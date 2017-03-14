@@ -1,4 +1,4 @@
-# JSONBOT
+# JSONBOT M
 Fasted PGN Based Untracible Chess Engine Alernative
 --------------------------------------------------
 That Chess Engine Alernative is unTracible by any moderator because of it is based on scripts only and All games played beforehand.
