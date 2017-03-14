@@ -12,7 +12,7 @@ Algorithm lays on query and filter moves Shortest WIN for selected side on JSON 
 You can setup variables as play most like HUMAN or GM or Stockfish orSurprize Winner or Brutal quick Winner or longer Delayer ext.
 
 # I have not publish yet master code here for end of date may kill internetchess my patient is over on Chess Cheaters with Lag Switches and Engines. 
-it has been tested at fics 3 years ago.
+it has been tested at fics 3 years ago. now it works on Chess.bom Liechess etc.
 --------------------------
 # Branch CONVERTOR; - you can test that.
 an evaluation convertor Multi PGN file to Array formatted JSON file.
