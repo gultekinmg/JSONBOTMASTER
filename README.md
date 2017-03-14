@@ -7,6 +7,8 @@ It playes all chess variants PGN BASEs available. Therefore it plays best when y
 So when no move available you need to extend your database.
 Algorithm lays on query and filter moves Shortest WIN for selected side on JSON Database.
 
+You can setup variables as play most like HUMAN or GM or Stockfish orSurprize Winner or Brutal quick Winner or longer Delayer ext.
+
 --------------------------
 # Branch CONVERTOR; 
 an evaluation convertor Multi PGN file to Array formatted JSON file.
