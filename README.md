@@ -1,4 +1,4 @@
-# JSONBOT
+# JSONBOT Master
 Fasted PGN Based Untracible Chess Engine Alternative
 --------------------------------------------------
 That Chess Engine Alernative is unTracible by any moderator because of it is based on scripts only and All games played beforehand.
@@ -15,14 +15,16 @@ You can setup variables as play most like HUMAN or GM or Stockfish orSurprize Wi
 it has been tested at fics 3 years ago. now it works on Chess.bom Liechess etc.
 Most horrible so easy to adapt ANDROID devices with overscreen write utility..
 --------------------------
-# Branch CONVERTOR; - you can test that.
+
+# Branch - CONVERTOR; - you can test that.
 an evaluation convertor Multi PGN file to Array formatted JSON file.
 That HTML based convertor takes a little time to reformat Billion based PGN files to JSON Database.
 you need to ignore Browser stalls to reach aim mostly 10 minutes a GB file.
 To reduce source outcome there exist also another short coding by chessforeva for further TODOs.
 
 --------------------------------------------------------------------------------------------------
-# Branch Macro; - depends on master code
+
+# Branch - MACRO; - depends on master code
 1- For Desktop Client; AU3 scripts injects Moves to Client interface.
 
 2- For Web Clients; Browser Extentions injects Move to Web Interface.
