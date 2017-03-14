@@ -17,6 +17,7 @@ Most horrible so easy to adapt ANDROID devices with overscreen write utility..
 --------------------------
 
 # Branch - CONVERTOR; - you can test that.
+https://github.com/gultekinmg/JSONBOT/tree/Convertor
 an evaluation convertor Multi PGN file to Array formatted JSON file.
 That HTML based convertor takes a little time to reformat Billion based PGN files to JSON Database.
 you need to ignore Browser stalls to reach aim mostly 10 minutes a GB file.
@@ -25,7 +26,6 @@ To reduce source outcome there exist also another short coding by chessforeva fo
 --------------------------------------------------------------------------------------------------
 
 # Branch - MACRO; - depends on master code
-https://github.com/gultekinmg/JSONBOT/tree/Convertor
 1- For Desktop Client; AU3 scripts injects Moves to Client interface.
 
 2- For Web Clients; Browser Extentions injects Move to Web Interface.
