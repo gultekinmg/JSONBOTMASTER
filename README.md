@@ -13,6 +13,7 @@ You can setup variables as play most like HUMAN or GM or Stockfish orSurprize Wi
 
 # I have not publish yet master code here for end of date may kill internetchess my patient is over on Chess Cheaters with Lag Switches and Engines. 
 it has been tested at fics 3 years ago. now it works on Chess.bom Liechess etc.
+Most horrible so easy to adapt ANDROID devies.
 --------------------------
 # Branch CONVERTOR; - you can test that.
 an evaluation convertor Multi PGN file to Array formatted JSON file.
