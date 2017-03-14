@@ -25,6 +25,7 @@ To reduce source outcome there exist also another short coding by chessforeva fo
 --------------------------------------------------------------------------------------------------
 
 # Branch - MACRO; - depends on master code
+https://github.com/gultekinmg/JSONBOT/tree/Convertor
 1- For Desktop Client; AU3 scripts injects Moves to Client interface.
 
 2- For Web Clients; Browser Extentions injects Move to Web Interface.
