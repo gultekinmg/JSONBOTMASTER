@@ -14,7 +14,7 @@ You can setup variables as play most like HUMAN or GM or Stockfish orSurprize Wi
 an evaluation convertor Multi PGN file to Array formatted JSON file.
 That HTML based convertor takes a little time to reformat Billion based PGN files to JSON Database.
 you need to ignore Browser stalls to reach aim mostly 10 minutes a GB file.
-To reduce souce outcome outcome there exist also another coding by chesseva for further TODOs.
+To reduce source outcome there exist also another short coding by chessforeva for further TODOs.
 
 --------------------------------------------------------------------------------------------------
 # Branch Macro; 
